@@ -1,1 +1,1 @@
-# git_test
+This is Pandanell's first git project.
